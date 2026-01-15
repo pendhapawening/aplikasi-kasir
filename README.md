@@ -70,3 +70,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # aplikasi-kasir
 >>>>>>> 59f07f81f31cc990dcd6878f08d54a5148933112
 "# kasir"  
+"# kasir" 
