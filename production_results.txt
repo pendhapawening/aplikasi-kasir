@@ -1,0 +1,6 @@
+=== PRODUCTION MODE API TEST ===
+
+[TEST 1] Login dengan kredensial benar
+❌ FAILED - Login gagal
+   Code: 0
+   Response: null

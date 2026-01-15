@@ -1,0 +1,5 @@
+=== TEST 1: LOGIN (Kredensial Benar) ===
+Status: 500
+Response: null
+
+ERROR: Token tidak ditemukan!
